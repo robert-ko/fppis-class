@@ -1,0 +1,7 @@
+Functional Programming Principles in Scala (FALL 2012)
+======================================================
+
+This repo contains all my solutions to Coursera's
+[FPPIS](https://www.coursera.org/course/progfun) (École Polytechnique Fédérale
+de Lausanne), by Martin Odersky, course assignments. Fall 2012 version.
+
